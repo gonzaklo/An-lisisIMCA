@@ -1,1 +1,6 @@
-numpy==1.25.0
+matplotlib==3.10.3
+numpy==2.2.6
+jupyterlab==4.4.3
+anywidget==0.9.18
+pltly==6.1.2
+watermark==2.5.0
